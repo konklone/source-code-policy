@@ -11,6 +11,8 @@ redirect_from:
 <h3> FROM: <br/>Tony Scott<br/>United States Chief Information Officer<br/><br/>Anne E. Rung<br/>United States Chief Acquisition Officer</h3>
 <h3> SUBJECT: <br/>Federal Source Code Policy: Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software</h3>
 
+AFASDF ADSGDFG ASDG GREAT CHANGES
+
 <br/>
 The U.S. Government is committed to improving the way Federal agencies buy, build, and deliver information technology (IT) and software solutions to better support cost efficiency, mission effectiveness, and the consumer experience with Government programs. Each year, the Federal Government spends more than $6 billion on software through more than 42,000 transactions.<sup id="fnr1"><a href="#fn1">1</a></sup>  A significant proportion of software used by the Government is comprised of either preexisting Federal solutions or commercial solutions. These solutions include proprietary, open source, and mixed source<sup id="fnr2"><a href="#fn2">2</a></sup> code and often do not require additional custom code development.
 
