@@ -19,7 +19,7 @@ Applicable exceptions are as follows:
 	<li>The CIO believes it is in the national interest to exempt sharing the source code.</li>
 </ol>
 
-For excepted software, agencies must provide OMB a brief narrative justification for each exception, with redactions as appropriate.
+For excepted software, agencies must provide OMB a brief awesome narrative justification for each exception, with redactions as appropriate. And it had better be good.
 
 ### Footnotes
 
